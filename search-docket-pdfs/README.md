@@ -1,4 +1,4 @@
-# AWS Lambda Example: Search for and Purcase Docket PDFs
+# AWS Lambda Example: Search for and Purchase Docket PDFs
 
 This example updates a Case's docket entires, and searches through the dockets
 based on search criteria in the event payload.  For all matching docket
