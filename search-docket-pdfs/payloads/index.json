@@ -1,0 +1,9 @@
+{
+  "appId": "your-app-id",
+  "appSecret": "your-app-secret",
+  "court": "orbtrain",
+  "caseNumber": "6:14-bk-63619",
+  "search": {
+    "searchKeyword": "jrp"
+  }
+}

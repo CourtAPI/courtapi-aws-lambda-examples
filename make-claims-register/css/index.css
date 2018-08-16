@@ -1,0 +1,33 @@
+body {
+  margin: 1em;
+}
+
+.claim-entry {
+  display: flex;
+}
+
+.claim-entry p {
+  margin: 0;
+}
+
+.claim-entry .number {
+  width: 60px;
+}
+
+.claim-entry .date {
+  width: 105px;
+}
+
+.claim-entry .creditor {
+  width: 660px;
+}
+
+.claim-entry .amount {
+  width: 140px;
+  text-align: right;
+  padding-right: 1em;
+}
+
+.claim-entry .updated {
+  width: 105px;
+}

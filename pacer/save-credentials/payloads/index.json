@@ -1,0 +1,6 @@
+{
+    "appId": "your-app-id",
+    "appSecret": "your-app-secret",
+    "pacerUser": "your-pacer-username",
+    "pacerPass": "your-pacer-password"
+}
